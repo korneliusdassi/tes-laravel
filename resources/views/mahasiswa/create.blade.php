@@ -15,7 +15,7 @@
         </div>
         <div class="form-group">
           <label for="tgl" class="form-label">Tanggal Lahir</label>
-          <input type="text" name="tgl_lahir" class="form-control" id="tgl" required>
+          <input type="date" name="tgl_lahir" class="form-control" id="tgl" required>
         </div>
         <div class="form-group">
           <label for="alamat" class="form-label">ALamat</label>
